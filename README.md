@@ -112,7 +112,6 @@ El proyecto fue desarrollado por:
 - Álvaro Díaz  
 - Jan Planas  
 - José Ortín  
-:contentReference[oaicite:4]{index=4}  
 
 ---
 

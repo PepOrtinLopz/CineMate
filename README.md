@@ -4,7 +4,7 @@ CineMate es una aplicación diseñada para mejorar la experiencia de los amantes
 El objetivo del proyecto fue crear una plataforma útil, dinámica y divertida, integrando módulos de recomendación, chatbot, cuestionarios inteligentes y funcionalidades sociales.
 
 > Proyecto desarrollado como parte del trabajo final de la asignatura de **LIS**.  
-> Trabajo completo disponible en la memoria del proyecto. :contentReference[oaicite:0]{index=0}  
+> Trabajo completo disponible en la memoria del proyecto.
 
 ---
 
@@ -71,7 +71,6 @@ El proyecto se desarrolló utilizando **SCRUM** en sprints de 1–2 semanas, apo
 - Repositorio gestionado con **GitHub**
 - Rama `main` protegida y fusiones solo tras revisión y pruebas internas  
 - Ramas por funcionalidad (`feature/chatbot`, `feature/recommender`, etc.)  
-:contentReference[oaicite:1]{index=1}  
 
 ---
 
@@ -84,7 +83,6 @@ El proyecto implementó:
 - ✔ User Acceptance Tests al final del desarrollo  
 
 Aunque las pruebas automatizadas no se implementaron, los métodos utilizados permitieron validar correctamente las funcionalidades y detectar errores a tiempo.  
-:contentReference[oaicite:2]{index=2}  
 
 ---
 
@@ -95,8 +93,7 @@ Durante el desarrollo surgieron desafíos como:
 - Importación, limpieza y estructura de datos desde **TheMovieDB**
 - Configuración de base de datos en un servidor externo
 - Integración de módulos independientes (Frontend ↔ Backend ↔ IA)
-- Limitaciones técnicas de modelos de IA de acceso gratuito  
-:contentReference[oaicite:3]{index=3}  
+- Limitaciones técnicas de modelos de IA de acceso gratuito   
 
 ---
 
@@ -118,7 +115,6 @@ El proyecto fue desarrollado por:
 ## 📌 Estado del proyecto
 
 El proyecto está **funcional y completo en un 99%**, quedando pendiente únicamente la integración del inicio de sesión mediante Google.  
-:contentReference[oaicite:5]{index=5}  
 
 ---
 
@@ -126,11 +122,8 @@ El proyecto está **funcional y completo en un 99%**, quedando pendiente únicam
 
 CineMate ha sido un proyecto ambicioso que ha permitido combinar tecnologías modernas, metodologías ágiles e inteligencia artificial para crear una aplicación práctica y entretenida.
 
-El equipo está orgulloso del resultado final y su potencial como herramienta real para cinéfilos.  
-:contentReference[oaicite:6]{index=6}  
+El equipo está orgulloso del resultado final y su potencial como herramienta real para cinéfilos.    
 
 ---
-
-### ⭐ Si quieres contribuir o ver futuras mejoras, ¡no dudes en abrir una issue o hacer un fork!
 
 
